@@ -11,12 +11,16 @@ Experimenting with OpenCV.
 
 
 **Installation**
+
+
 After [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) is successfully installed run:
 ```
 npm install
 ```
 
 **Starting the project**
+
+
 Simply run:
 ```
 node server.js
