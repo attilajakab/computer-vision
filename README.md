@@ -23,3 +23,6 @@ node server.js
 ```
 Navigate to your browser at ```http://localhost:8080/```.
 That's it!
+
+## Demo
+Short video demonstration [here](https://www.youtube.com/watch?v=tA90L9UOFSg).
